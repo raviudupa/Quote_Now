@@ -156,7 +156,7 @@ function mergeRooms(...lists) {
   const set = new Set()
   for (const l of lists) {
     for (const r of (l || [])) {
-      const s = String(r || '').toLowerCase().trim()
+      let s = String(r || '').toLowerCase().trim()
       if (s) {
         if (/^hall$|^lounge$/.test(s)) s = 'living'
         if (/^rest\s*room$/.test(s)) s = 'bathroom'
