@@ -1,0 +1,40 @@
+{
+  "materials": {
+    "fabric": ["fabric", "cloth", "textile", "upholstery"],
+    "leather": ["leather", "leatherette", "faux leather"],
+    "wood": ["wood", "wooden", "plywood", "engineered wood", "solid wood"],
+    "metal": ["metal", "steel", "iron", "aluminium"],
+    "glass": ["glass", "tempered glass"]
+  },
+  "styles": {
+    "modern": ["modern", "sleek", "minimal", "contemporary"],
+    "traditional": ["traditional", "classic", "heritage"],
+    "scandinavian": ["scandinavian", "nordic"],
+    "industrial": ["industrial", "loft", "raw"],
+    "boho": ["boho", "bohemian"]
+  },
+  "shapes": {
+    "curved": ["curved", "rounded", "round", "circular", "oval"],
+    "rectangular": ["rectangular", "rectangle", "square"]
+  },
+  "typeSynonyms": {
+    "wardrobe": ["wardrobe", "almirah", "closet"],
+    "bookcase": ["bookcase", "bookshelf", "shelving", "shelf"],
+    "tv_bench": ["tv bench", "tv unit", "tv stand", "tv table", "tv storage"],
+    "sofa": ["sofa", "couch"],
+    "mirror": ["mirror"],
+    "table": ["table", "coffee table", "side table", "bedside table", "dining table"],
+    "chair": ["chair", "armchair", "dining chair"]
+  },
+  "intents": {
+    "bigger_sofa": ["bigger sofa", "more seats", "increase seats", "one more seat"],
+    "mirror_with_light": ["mirror with light", "backlit mirror", "mirror lighting", "illuminated mirror"]
+  },
+  "areas": {
+    "living": ["living", "hall", "drawing"],
+    "bedroom": ["bedroom", "bed room"],
+    "kitchen": ["kitchen"],
+    "bathroom": ["bathroom", "washroom", "restroom"],
+    "dining": ["dining"]
+  }
+}

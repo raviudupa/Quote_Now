@@ -1,0 +1,38 @@
+[
+  {
+    "id": "modern",
+    "name": "Modern",
+    "keywords": ["modern", "sleek", "clean lines", "minimal", "neutral", "matte", "glass", "metal"],
+    "features": ["clean lines", "neutral palette", "matte finishes"]
+  },
+  {
+    "id": "contemporary",
+    "name": "Contemporary",
+    "keywords": ["contemporary", "current", "curved", "soft", "light wood", "beige", "warm neutral"],
+    "features": ["soft curves", "warm neutrals", "light wood"]
+  },
+  {
+    "id": "traditional",
+    "name": "Traditional",
+    "keywords": ["traditional", "classic", "ornate", "panelled", "carved", "rich wood", "walnut"],
+    "features": ["rich wood", "ornate details", "panelled cabinetry"]
+  },
+  {
+    "id": "minimalist",
+    "name": "Minimalist",
+    "keywords": ["minimal", "minimalist", "simple", "functional", "monochrome", "white", "black"],
+    "features": ["functional forms", "monochrome", "decluttered look"]
+  },
+  {
+    "id": "industrial",
+    "name": "Industrial",
+    "keywords": ["industrial", "exposed", "concrete", "metal", "black frame", "mesh", "pipe"],
+    "features": ["black frames", "exposed materials", "concrete textures"]
+  },
+  {
+    "id": "bohemian",
+    "name": "Bohemian",
+    "keywords": ["boho", "bohemian", "woven", "rattan", "pattern", "colorful", "plants"],
+    "features": ["woven textures", "patterns", "plants"]
+  }
+]
